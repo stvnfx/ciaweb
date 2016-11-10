@@ -8,6 +8,11 @@ website.
 Since that VM was deleted a long time ago it was reassigned to
 someone else. 
 
-At the current time of writing this 10 November 2016 that VM belongs 
+At the current time of writing this 10 November 2016 that VM IP now belongs 
 to either Brown & Corbishley or the web design company Webtise.
+
+Sadly if you googled Brown & Corbishley the first link was carsinaction.net and not
+their own and I am sure that must be frustrating :)
+
+![Alt text](/../master/screenshot.png?raw=true "screenshot")
 
